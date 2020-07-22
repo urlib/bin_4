@@ -1,0 +1,1 @@
+document.onkeydown=function(e){if((e=e||window.event).ctrlKey&&82==e.keyCode||116==e.keyCode)return window.location="./deqrcode.php",!1};
